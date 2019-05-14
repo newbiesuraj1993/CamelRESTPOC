@@ -1,0 +1,3 @@
+type,sku,description,price
+ADD,100,Samsung TV,500
+ADD,101,IPhone,200
